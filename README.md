@@ -3,7 +3,7 @@
 ## I used
  - state management [bloc]
  - Internet connectivity
- - free RESTful API [Breaking Bad api](https://www.breakingbadapi.com/api/)
+ - free RESTful API [Breaking Bad api](https://www.breakingbadapi.com/)
  - Animated Text to show random quotes for each character
 
 
